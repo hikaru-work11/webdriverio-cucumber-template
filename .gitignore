@@ -1,0 +1,11 @@
+logs
+node_modules
+
+errorShots
+coverage
+
+# Editor files
+.idea
+.vscode
+!.vscode/extensions.json
+yarn.lock
