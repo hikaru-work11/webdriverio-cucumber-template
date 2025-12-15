@@ -1,9 +1,9 @@
 {
-  "name": "@forsisters/minsys-webdriverio-cucumber-template",
+  "name": "@hikaru-work11/webdriverio-cucumber-template",
   "license": "MIT",
   "version": "1.0.0",
   "description": "Boilerplate project to run WebdriverIO tests with Cucumber",
-  "homepage": "https://github.com/forsisters/minsys-webdriverio-cucumber-template",
+  "homepage": "https://github.com/hikaru-work11/webdriverio-cucumber-template",
   "type": "module",
   "files": [
     "src/steps",
@@ -12,7 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/forsisters/minsys-webdriverio-cucumber-template.git"
+    "url": "https://github.com/hikaru-work11/webdriverio-cucumber-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hikaru-work11/webdriverio-cucumber-template/issues"
   },
   "keywords": [
     "wdio",
